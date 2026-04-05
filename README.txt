@@ -1,8 +1,7 @@
-TP3 – Frequency Assignment Problem
-CSE480/591 Optimization with Metaheuristics
+Frequency Assignment Problem
+Optimization with Metaheuristics
 
 Author: Buğrahan Aydın
-Student ID: 20210702018
 
 This project implements a Tabu Search metaheuristic for solving the
 Frequency Assignment Problem (FAP).
